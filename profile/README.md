@@ -9,3 +9,11 @@ The Open Space Toolkit (**OSTk**) is a collection of versatile libraries for aer
 - **Python** – via C++ bindings, formidable for interactive use and prototyping.
 
 ![Animation](https://github.com/open-space-collective/open-space-toolkit/blob/master/assets/animation.gif)
+
+## Documentation
+
+Please consult the [open-space-toolkit](https://github.com/open-space-collective/open-space-toolkit) repository to find:
+
+- a detailed [README](https://github.com/open-space-collective/open-space-toolkit/blob/main/README.md)
+- the [Contributing Guide](https://github.com/open-space-collective/open-space-toolkit/blob/main/CONTRIBUTING.md)
+- the [Code of Conduct](https://github.com/open-space-collective/open-space-toolkit/blob/main/CODE_OF_CONDUCT.md)
